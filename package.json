@@ -1,0 +1,20 @@
+{
+  "name": "ethers-utils-toolkit",
+  "version": "1.0.0",
+  "description": "A utility library for Ethereum development, powered by ethers.js and Moralis. Includes functions for interacting with contracts, managing transactions, validating addresses, and more.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "keywords": [],
+  "author": "Wajahat Hussain",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.1.2",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.4",
+    "mocha": "^10.8.2",
+    "moralis": "^2.27.2"
+  }
+}
